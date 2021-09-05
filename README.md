@@ -1,0 +1,2 @@
+# SmartCruciancarpcount
+Smartヘラカウンタ用の開発環境
